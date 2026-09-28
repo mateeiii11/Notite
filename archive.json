@@ -1,0 +1,40 @@
+{
+  "appVersion" : "1.4.41",
+  "appBuild" : "207",
+  "packageFormatVersion" : "1.21",
+  "version" : 1,
+  "type" : "dataExport",
+  "createdAt" : "2026-09-28T15:03:27Z",
+  "items" : [
+    {
+      "parentId" : "",
+      "position" : "+E8ReUh",
+      "colorIndex" : 9,
+      "id" : "A4A9C658343A4C25A652C44461289F39",
+      "isFolder" : true,
+      "subtype" : 0,
+      "relativePath" : "\/Anul 1",
+      "name" : "Anul 1",
+      "icon" : ""
+    },
+    {
+      "parentId" : "A4A9C658343A4C25A652C44461289F39",
+      "position" : "+EHKxWx",
+      "colorIndex" : 9,
+      "id" : "D744EFA15C4C46DCB6764D2C5BC6EB62",
+      "isFolder" : true,
+      "subtype" : 0,
+      "relativePath" : "\/Anul 1\/Analiza Matematica",
+      "name" : "Analiza Matematica",
+      "icon" : ""
+    },
+    {
+      "subtype" : 0,
+      "id" : "0070916AAAF140B2BE961D0DBDC84A84",
+      "parentId" : "D744EFA15C4C46DCB6764D2C5BC6EB62",
+      "name" : "Seminar 1 28.09.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Analiza Matematica\/Seminar 1 28.09.2026.pdf"
+    }
+  ]
+}
