@@ -4,7 +4,7 @@
   "packageFormatVersion" : "1.21",
   "version" : 1,
   "type" : "dataExport",
-  "createdAt" : "2026-09-28T15:03:27Z",
+  "createdAt" : "2026-09-29T11:27:15Z",
   "items" : [
     {
       "parentId" : "",
@@ -19,6 +19,17 @@
     },
     {
       "parentId" : "A4A9C658343A4C25A652C44461289F39",
+      "position" : "+ENpX5Z",
+      "colorIndex" : 9,
+      "id" : "5C2D6A65B46E49F89A38447C42725C76",
+      "isFolder" : true,
+      "subtype" : 0,
+      "relativePath" : "\/Anul 1\/Algebra liniara",
+      "name" : "Algebra liniara",
+      "icon" : ""
+    },
+    {
+      "parentId" : "A4A9C658343A4C25A652C44461289F39",
       "position" : "+EHKxWx",
       "colorIndex" : 9,
       "id" : "D744EFA15C4C46DCB6764D2C5BC6EB62",
@@ -27,6 +38,14 @@
       "relativePath" : "\/Anul 1\/Analiza Matematica",
       "name" : "Analiza Matematica",
       "icon" : ""
+    },
+    {
+      "subtype" : 0,
+      "id" : "B28C2A78BC02478D83F3F591065946FA",
+      "parentId" : "5C2D6A65B46E49F89A38447C42725C76",
+      "name" : "Seminar 1 29.09.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Algebra liniara\/Seminar 1 29.09.2026.pdf"
     },
     {
       "subtype" : 0,
