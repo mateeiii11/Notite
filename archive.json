@@ -4,7 +4,7 @@
   "packageFormatVersion" : "1.21",
   "version" : 1,
   "type" : "dataExport",
-  "createdAt" : "2026-09-29T11:27:15Z",
+  "createdAt" : "2026-10-02T15:42:26Z",
   "items" : [
     {
       "parentId" : "",
@@ -40,6 +40,58 @@
       "icon" : ""
     },
     {
+      "parentId" : "A4A9C658343A4C25A652C44461289F39",
+      "position" : "+EdUfdv",
+      "colorIndex" : 9,
+      "id" : "53C0D4FB0DC747A095B600D0014035D7",
+      "isFolder" : true,
+      "subtype" : 0,
+      "relativePath" : "\/Anul 1\/Computer Programming",
+      "name" : "Computer Programming",
+      "icon" : ""
+    },
+    {
+      "parentId" : "A4A9C658343A4C25A652C44461289F39",
+      "position" : "+El8\/QK",
+      "colorIndex" : 9,
+      "id" : "3C98A4666BAC405E9F87ABC80B3C1F55",
+      "isFolder" : true,
+      "subtype" : 0,
+      "relativePath" : "\/Anul 1\/Logic Design",
+      "name" : "Logic Design",
+      "icon" : ""
+    },
+    {
+      "parentId" : "A4A9C658343A4C25A652C44461289F39",
+      "position" : "+EXqvVv",
+      "colorIndex" : 9,
+      "id" : "2E20ACC9A3F641EF819D75563A0E01C9",
+      "isFolder" : true,
+      "subtype" : 0,
+      "relativePath" : "\/Anul 1\/Matematici Speciale",
+      "name" : "Matematici Speciale",
+      "icon" : ""
+    },
+    {
+      "parentId" : "A4A9C658343A4C25A652C44461289F39",
+      "position" : "+EsRMd4",
+      "colorIndex" : 9,
+      "id" : "088A530702F54BCA9EEA0653D8C4598B",
+      "isFolder" : true,
+      "subtype" : 0,
+      "relativePath" : "\/Anul 1\/Physics",
+      "name" : "Physics",
+      "icon" : ""
+    },
+    {
+      "subtype" : 0,
+      "id" : "97520D3D45AB4808998A7311E225C591",
+      "parentId" : "5C2D6A65B46E49F89A38447C42725C76",
+      "name" : "Curs 1 2.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Algebra liniara\/Curs 1 2.10.2026.pdf"
+    },
+    {
       "subtype" : 0,
       "id" : "B28C2A78BC02478D83F3F591065946FA",
       "parentId" : "5C2D6A65B46E49F89A38447C42725C76",
@@ -49,11 +101,75 @@
     },
     {
       "subtype" : 0,
+      "id" : "4322295FCA9948C2AED00DAECBF9381B",
+      "parentId" : "D744EFA15C4C46DCB6764D2C5BC6EB62",
+      "name" : "Curs 1 30.9.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Analiza Matematica\/Curs 1 30.9.2026.pdf"
+    },
+    {
+      "subtype" : 0,
       "id" : "0070916AAAF140B2BE961D0DBDC84A84",
       "parentId" : "D744EFA15C4C46DCB6764D2C5BC6EB62",
       "name" : "Seminar 1 28.09.2026",
       "isDrawing" : true,
       "relativePath" : "\/Anul 1\/Analiza Matematica\/Seminar 1 28.09.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "B47DF111944B448BB306581BDFEEC70C",
+      "parentId" : "53C0D4FB0DC747A095B600D0014035D7",
+      "name" : "Curs 1 30.09.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Computer Programming\/Curs 1 30.09.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "F825470C528B4496BED9110A76416129",
+      "parentId" : "53C0D4FB0DC747A095B600D0014035D7",
+      "name" : "Seminar 1 30.09.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Computer Programming\/Seminar 1 30.09.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "D38DA9E13DC34BB2981B2F9337D77F1C",
+      "parentId" : "3C98A4666BAC405E9F87ABC80B3C1F55",
+      "name" : "Curs 1 2.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Logic Design\/Curs 1 2.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "BDF66FA850BD41FCA3FEDD5D4FBC9D29",
+      "parentId" : "3C98A4666BAC405E9F87ABC80B3C1F55",
+      "name" : "Laborator 1 1.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Logic Design\/Laborator 1 1.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "CF245D5FF7E247A28DE99006FECAF031",
+      "parentId" : "2E20ACC9A3F641EF819D75563A0E01C9",
+      "name" : "Curs 1 30.09.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Matematici Speciale\/Curs 1 30.09.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "EEFEED69EFD24EDE9D655B5D9AFF4C2C",
+      "parentId" : "2E20ACC9A3F641EF819D75563A0E01C9",
+      "name" : "Problems 1 1.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Matematici Speciale\/Problems 1 1.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "5738614127284B3AB8BFD187DF36A7E4",
+      "parentId" : "088A530702F54BCA9EEA0653D8C4598B",
+      "name" : "Curs 1 2.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Physics\/Curs 1 2.10.2026.pdf"
     }
   ]
 }
