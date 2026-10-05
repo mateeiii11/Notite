@@ -4,7 +4,7 @@
   "packageFormatVersion" : "1.21",
   "version" : 1,
   "type" : "dataExport",
-  "createdAt" : "2026-10-02T17:13:48Z",
+  "createdAt" : "2026-10-05T17:06:10Z",
   "items" : [
     {
       "parentId" : "",
@@ -117,6 +117,14 @@
     },
     {
       "subtype" : 0,
+      "id" : "7C23F4492B4B4FAFA09BEAFAA7B70A59",
+      "parentId" : "D744EFA15C4C46DCB6764D2C5BC6EB62",
+      "name" : "Seminar 2 5.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Analiza Matematica\/Seminar 2 5.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
       "id" : "B47DF111944B448BB306581BDFEEC70C",
       "parentId" : "53C0D4FB0DC747A095B600D0014035D7",
       "name" : "Curs 1 30.09.2026",
@@ -162,6 +170,22 @@
       "name" : "Problems 1 1.10.2026",
       "isDrawing" : true,
       "relativePath" : "\/Anul 1\/Matematici Speciale\/Problems 1 1.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "9D27356669C1470DBE8C839C6B4C7F96",
+      "parentId" : "2E20ACC9A3F641EF819D75563A0E01C9",
+      "name" : "Problems 2 3.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Matematici Speciale\/Problems 2 3.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "65135302CF5046409B3827CC75119003",
+      "parentId" : "2E20ACC9A3F641EF819D75563A0E01C9",
+      "name" : "Seminar 1 5.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Matematici Speciale\/Seminar 1 5.10.2026.pdf"
     },
     {
       "subtype" : 0,
