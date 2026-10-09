@@ -4,7 +4,7 @@
   "packageFormatVersion" : "1.21",
   "version" : 1,
   "type" : "dataExport",
-  "createdAt" : "2026-10-06T17:46:59Z",
+  "createdAt" : "2026-10-09T15:47:52Z",
   "items" : [
     {
       "parentId" : "",
@@ -104,11 +104,27 @@
     },
     {
       "subtype" : 0,
+      "id" : "79E5C0DC5DAE4D699F369BF7DD44310B",
+      "parentId" : "5C2D6A65B46E49F89A38447C42725C76",
+      "name" : "Curs 2 9.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Algebra liniara\/Curs 2 9.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
       "id" : "897B51550C2A42B5940514F85ADB243F",
       "parentId" : "5C2D6A65B46E49F89A38447C42725C76",
       "name" : "Problems 1 6.10.2026",
       "isDrawing" : true,
       "relativePath" : "\/Anul 1\/Semestrul I\/Algebra liniara\/Problems 1 6.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "69CECBF54D58433CBA63014063CA93C0",
+      "parentId" : "5C2D6A65B46E49F89A38447C42725C76",
+      "name" : "Problems 7.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Algebra liniara\/Problems 7.10.2026.pdf"
     },
     {
       "subtype" : 0,
@@ -133,6 +149,14 @@
       "name" : "Curs 1 30.9.2026",
       "isDrawing" : true,
       "relativePath" : "\/Anul 1\/Semestrul I\/Analiza Matematica\/Curs 1 30.9.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "F06018092BF14688B383B727AE3E93C5",
+      "parentId" : "D744EFA15C4C46DCB6764D2C5BC6EB62",
+      "name" : "Curs 2 7.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Analiza Matematica\/Curs 2 7.10.2026.pdf"
     },
     {
       "subtype" : 0,
@@ -184,11 +208,27 @@
     },
     {
       "subtype" : 0,
+      "id" : "1F311A4DDA1E426F84926EAFFFDEA5F3",
+      "parentId" : "3C98A4666BAC405E9F87ABC80B3C1F55",
+      "name" : "Laboratory 2 8.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Logic Design\/Laboratory 2 8.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
       "id" : "CF245D5FF7E247A28DE99006FECAF031",
       "parentId" : "2E20ACC9A3F641EF819D75563A0E01C9",
       "name" : "Curs 1 30.09.2026",
       "isDrawing" : true,
       "relativePath" : "\/Anul 1\/Semestrul I\/Matematici Speciale\/Curs 1 30.09.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "E8C40DBD6DA84D7E9725663F629A2B26",
+      "parentId" : "2E20ACC9A3F641EF819D75563A0E01C9",
+      "name" : "Curs 2 7.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Matematici Speciale\/Curs 2 7.10.2026.pdf"
     },
     {
       "subtype" : 0,
@@ -221,6 +261,14 @@
       "name" : "Curs 1 2.10.2026",
       "isDrawing" : true,
       "relativePath" : "\/Anul 1\/Semestrul I\/Physics\/Curs 1 2.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "657B45C0E09F42E4AD266C41A7CD8BA0",
+      "parentId" : "088A530702F54BCA9EEA0653D8C4598B",
+      "name" : "Curs 2 9.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Physics\/Curs 2 9.10.2026.pdf"
     },
     {
       "subtype" : 0,
