@@ -1,10 +1,10 @@
 {
-  "appVersion" : "1.4.41",
-  "appBuild" : "207",
+  "appVersion" : "1.5.1",
+  "appBuild" : "214",
   "packageFormatVersion" : "1.21",
   "version" : 1,
   "type" : "dataExport",
-  "createdAt" : "2026-10-18T12:24:56Z",
+  "createdAt" : "2026-10-25T19:20:07Z",
   "items" : [
     {
       "parentId" : "",
@@ -166,6 +166,14 @@
     },
     {
       "subtype" : 0,
+      "id" : "AD9185D6A3F844CA8D85DBC6FD4DD404",
+      "parentId" : "5C2D6A65B46E49F89A38447C42725C76",
+      "name" : "Problems 4 20.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Algebra liniara\/Problems 4 20.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
       "id" : "B28C2A78BC02478D83F3F591065946FA",
       "parentId" : "5C2D6A65B46E49F89A38447C42725C76",
       "name" : "Seminar 1 29.09.2026",
@@ -187,6 +195,14 @@
       "name" : "Seminar 3 13.10.2026",
       "isDrawing" : true,
       "relativePath" : "\/Anul 1\/Semestrul I\/Algebra liniara\/Seminar 3 13.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "0BD18C89D6CB4C7D9E023F5FB82A89ED",
+      "parentId" : "5C2D6A65B46E49F89A38447C42725C76",
+      "name" : "Seminar 4 20.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Algebra liniara\/Seminar 4 20.10.2026.pdf"
     },
     {
       "subtype" : 0,
@@ -238,6 +254,14 @@
     },
     {
       "subtype" : 0,
+      "id" : "C5478CBCBD4546BC8CBD2827A8959078",
+      "parentId" : "D744EFA15C4C46DCB6764D2C5BC6EB62",
+      "name" : "Problems 4 24.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Analiza Matematica\/Problems 4 24.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
       "id" : "0070916AAAF140B2BE961D0DBDC84A84",
       "parentId" : "D744EFA15C4C46DCB6764D2C5BC6EB62",
       "name" : "Seminar 1 28.09.2026",
@@ -259,6 +283,14 @@
       "name" : "Seminar 3 12.10.2026",
       "isDrawing" : true,
       "relativePath" : "\/Anul 1\/Semestrul I\/Analiza Matematica\/Seminar 3 12.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "7ABE5D7F59F649969E811AF8FEF7BD33",
+      "parentId" : "D744EFA15C4C46DCB6764D2C5BC6EB62",
+      "name" : "Seminar 4 19.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Analiza Matematica\/Seminar 4 19.10.2026.pdf"
     },
     {
       "subtype" : 0,
@@ -318,6 +350,14 @@
     },
     {
       "subtype" : 0,
+      "id" : "1294DD1CA1E645389D317680DA0D4BAB",
+      "parentId" : "3C98A4666BAC405E9F87ABC80B3C1F55",
+      "name" : "Laboratory 4 22.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Logic Design\/Laboratory 4 22.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
       "id" : "CF245D5FF7E247A28DE99006FECAF031",
       "parentId" : "2E20ACC9A3F641EF819D75563A0E01C9",
       "name" : "Curs 1 30.09.2026",
@@ -339,6 +379,14 @@
       "name" : "Curs 3 14.10.2026",
       "isDrawing" : true,
       "relativePath" : "\/Anul 1\/Semestrul I\/Matematici Speciale\/Curs 3 14.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "52A21E1DCB824B37865235E2F9605145",
+      "parentId" : "2E20ACC9A3F641EF819D75563A0E01C9",
+      "name" : "Curs 4 21.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Matematici Speciale\/Curs 4 21.10.2026.pdf"
     },
     {
       "subtype" : 0,
@@ -382,6 +430,22 @@
     },
     {
       "subtype" : 0,
+      "id" : "7DAFE43985A4479E9BC3A82B80D09FC8",
+      "parentId" : "2E20ACC9A3F641EF819D75563A0E01C9",
+      "name" : "Problems 6 24.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Matematici Speciale\/Problems 6 24.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "ACF5780C0495465BAA38A51DC9D14B27",
+      "parentId" : "2E20ACC9A3F641EF819D75563A0E01C9",
+      "name" : "Problems 7 25.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Matematici Speciale\/Problems 7 25.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
       "id" : "65135302CF5046409B3827CC75119003",
       "parentId" : "2E20ACC9A3F641EF819D75563A0E01C9",
       "name" : "Seminar 1 5.10.2026",
@@ -395,6 +459,14 @@
       "name" : "Seminar 2 12.10.2026",
       "isDrawing" : true,
       "relativePath" : "\/Anul 1\/Semestrul I\/Matematici Speciale\/Seminar 2 12.10.2026.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "24C677ECEAC24A839CBE3644D7116778",
+      "parentId" : "2E20ACC9A3F641EF819D75563A0E01C9",
+      "name" : "Seminar 3 19.10.2026",
+      "isDrawing" : true,
+      "relativePath" : "\/Anul 1\/Semestrul I\/Matematici Speciale\/Seminar 3 19.10.2026.pdf"
     },
     {
       "subtype" : 0,
